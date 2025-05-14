@@ -1,0 +1,1 @@
+Hello this is a Write modeYou can write multiple in the file the content will not remove but before closing itHello this is a append mode here at the end the text is added
